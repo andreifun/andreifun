@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andreifun
 - 👀 I’m interested in web development and AI
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me: Don't
+- 🌱 I’m currently learning whatever
+- 💞️ I’m looking to collaborate on anything really
+- 📫 How to reach me: Idk
